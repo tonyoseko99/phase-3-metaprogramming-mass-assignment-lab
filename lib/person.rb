@@ -8,5 +8,5 @@ class Person
   end
   
 end
-Footer
+Person
 
